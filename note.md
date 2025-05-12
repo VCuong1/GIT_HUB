@@ -3,6 +3,8 @@
 Repository(Repo)
 Branch
 Conflict
+Local
+Remote
 
 #Commands
 - git init : Khởi tạo dự án
@@ -18,3 +20,4 @@ Conflict
 - git chekout -b {branch name}: Lưu ở nhánh mới
 - git merge {branch name}: Tổng hợp lại branch
 - git branch -d {branch name}: Xóa branch
+- git push: Đẩy lên repo từ local
