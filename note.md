@@ -14,3 +14,5 @@ Repository(Repo)
 - git checkout matser: trở về hiện tại
 - git branch: xema cành hiện tại
 - git chekout -b {branch name}: Lưu ở nhánh mới
+- git merge {branch name}: Tổng hợp lại branch
+- git branch -d {branch name}: Xóa branch
